@@ -23,7 +23,9 @@
 
 Passionate tech enthusiast with a problem-solving mindset, strong planning skills, and proven leadership in full-stack development using FOSS. Started in electronics and hardware, now known for thorough, detail-oriented work, effective communication, and managing cross-functional teams. Skilled in aligning technical strategies with business goals to drive project success.
 
-## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
+<!-- ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages -->
+
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
 <div align="center">
 <table>
@@ -38,8 +40,6 @@ Passionate tech enthusiast with a problem-solving mindset, strong planning skill
 </tr>
 </table>
 </div>
-
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KreativeThinker&theme=aura_dark" alt="stats" />
