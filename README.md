@@ -26,10 +26,10 @@
 I'm Anumeya — a **backend-focused full-stack developer** building across **AI, mobile, systems, and developer tools**.
 
 - 💻 Obsessed with modular, fast, and clean builds
-- 🛠 Strong with **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **React Native**, **Linux**
+- 🛠 Strong with **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **React**, **Linux**, **TailwindCSS**
 - 🌐 Built full-stack apps, gesture-based control systems, and Chrome extensions
 - 🧪 Contributed to national hackathons: **DevsHouse**, **Shaastra IITM**, **Zypher**
-- 🔧 Backend lead @ **Linux Club, VIT Chennai**
+- 🔧 Gen Sec @**Linux Club, VIT Chennai**
 
 > 🧩 _"Making life easier, one project at a time."_
 
@@ -61,11 +61,12 @@ I'm Anumeya — a **backend-focused full-stack developer** building across **AI,
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tortoise%20ORM-1B1F23?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0035B7?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Styling & UI Design**  
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-15726B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 **DevOps & Tools**  
